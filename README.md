@@ -26,6 +26,11 @@
 ```sh
 https://github.com/suvadeep2001/Laptop-Review-App.git
 ```
+# Go to the directory
+
+```sh
+cd Laptop-Review-App
+```
 
 ## start backend
 
