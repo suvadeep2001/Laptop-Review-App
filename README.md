@@ -21,6 +21,12 @@
 
 ## How to Install and Run the Project
 
+# clone the repository
+
+```sh
+https://github.com/suvadeep2001/Laptop-Review-App.git
+```
+
 ## start backend
 
 ```sh
