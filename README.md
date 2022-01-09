@@ -28,6 +28,8 @@ cd server
 npm install
 npm start
 ```
+### Backend server will start on port number 5000
+
 ## start frontend
 
 ```sh
@@ -36,5 +38,3 @@ npm install
 npm start
 ```
 ### Frontend server will start on port number 3000
-### Backend server will start on port number 5000
-
