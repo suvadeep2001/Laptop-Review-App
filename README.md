@@ -41,6 +41,12 @@ npm start
 ```
 ### Backend server will start on port number 5000
 
+## It will open like this
+
+![Screenshot from 2022-01-09 15-25-53](https://user-images.githubusercontent.com/68159874/148677563-9d33843e-e486-40ff-a7f3-84d9bb237705.png)
+
+
+
 ## start frontend
 
 ```sh
