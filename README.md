@@ -39,12 +39,12 @@ cd server
 npm install
 npm start
 ```
-### Backend server will start on port number 5000
 
 ## It will open like this
 
-![Screenshot from 2022-01-09 15-25-53](https://user-images.githubusercontent.com/68159874/148677563-9d33843e-e486-40ff-a7f3-84d9bb237705.png)
+![IMG_20220109_152514](https://user-images.githubusercontent.com/68159874/148677606-d5a8a5ee-18a3-4148-a59c-d4170f579a43.png)
 
+### Backend server will start on port number 5000
 
 
 ## start frontend
@@ -54,4 +54,15 @@ cd frontend
 npm install
 npm start
 ```
+## It will open like this
+
+![IMG_20220109_153112](https://user-images.githubusercontent.com/68159874/148677682-a0740c74-544e-4448-bc7d-dfff6d21fcbd.png)
+
 ### Frontend server will start on port number 3000
+
+## App Demo
+
+![IMG_20220109_153848](https://user-images.githubusercontent.com/68159874/148677935-ebf66531-7a0e-4b5e-b33a-db1191568722.png)
+
+![IMG_20220109_153905](https://user-images.githubusercontent.com/68159874/148677936-5d8ecd06-113d-4833-b67f-85d1195aede2.png)
+
