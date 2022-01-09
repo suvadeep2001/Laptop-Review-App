@@ -7,4 +7,34 @@
 ## Features
 
 - User login using oAuth authentication
--
+- Review laptops
+- people have to login to read any review
+- Use cookie session so that after refreshing the page all data remain the same.
+## Technologies
+
+- React JS
+- node js
+- Express JS
+- passport authentication
+- cookie-session
+
+
+## How to Install and Run the Project
+
+## start backend
+
+```sh
+cd server
+npm install
+npm start
+```
+## start frontend
+
+```sh
+cd frontend
+npm install
+npm start
+```
+### Frontend server will start on port number 3000
+### Backend server will start on port number 5000
+
