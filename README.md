@@ -36,8 +36,6 @@ cd Laptop-Review-App
 
 ```sh
 cd server
-npm install
-npm start
 ```
 ```sh
 npm install
@@ -58,8 +56,6 @@ npm start
 
 ```sh
 cd frontend
-npm install
-npm start
 ```
 ```sh
 npm install
