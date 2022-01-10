@@ -39,6 +39,13 @@ cd server
 npm install
 npm start
 ```
+```sh
+npm install
+```
+
+```sh
+npm start
+```
 
 ## It will open like this
 
@@ -54,6 +61,13 @@ cd frontend
 npm install
 npm start
 ```
+```sh
+npm install
+```
+```sh
+npm start
+```
+
 ## It will open like this
 
 ![IMG_20220109_153112](https://user-images.githubusercontent.com/68159874/148677682-a0740c74-544e-4448-bc7d-dfff6d21fcbd.png)
